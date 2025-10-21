@@ -4,11 +4,15 @@ Chord diagrams are combinatorial invariants corresponding to ideal arc systems o
 
 The outputs is in the `.svg` format because I wanted to use these diagrams in my LaTeX notes. You need the Python library `svgwrite` to create svg diagrams. Here are some examples:
 
+<br>
+<br>
+
 <figure>
   <img src="ex2.svg" alt="SVG Image" width="400">
   <figcaption style="text-align: center;">The fan triangulation for genus 6</figcaption>
 </figure>
 
+<br>
 <br>
 <br>
 <br>
@@ -18,6 +22,7 @@ The outputs is in the `.svg` format because I wanted to use these diagrams in my
   <figcaption style="text-align: center;">An elementary move about the red chord</figcaption>
 </figure>
 
+<br>
 <br>
 <br>
 <br>
