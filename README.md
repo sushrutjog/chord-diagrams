@@ -7,22 +7,22 @@ The outputs is in the `.svg` format because I wanted to use these diagrams in my
 <br>
 <br>
 
+<center>
 <figure>
   <img src="ex2.svg" alt="SVG Image" width="400">
-  <figcaption style="text-align: center;">The fan triangulation for genus 6</figcaption>
+  <figcaption style="text-align: center;">The fan triangulation of a genus 6 surface.</figcaption>
 </figure>
+</center>
 
-<br>
 <br>
 <br>
 <br>
 
 <figure>
   <img src="ex1.svg" alt="SVG Image">
-  <figcaption style="text-align: center;">An elementary move about the red chord</figcaption>
+  <figcaption style="text-align: center;">An elementary move about the red chord on a genus 3 surface.</figcaption>
 </figure>
 
-<br>
 <br>
 <br>
 <br>
