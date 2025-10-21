@@ -4,8 +4,23 @@ Chord diagrams are combinatorial invariants corresponding to ideal arc systems o
 
 The outputs is in the `.svg` format because I wanted to use these diagrams in my LaTeX notes. You need the Python library `svgwrite` to create svg diagrams. Here are some examples:
 
+<figure>
+  <img src="ex2.svg" alt="SVG Image" width="400">
+  <figcaption style="text-align: center;">The fan triangulation for genus 6</figcaption>
+</figure>
 
+<br>
+<br>
+<br>
 
+<figure>
+  <img src="ex1.svg" alt="SVG Image">
+  <figcaption style="text-align: center;">An elementary move about the red chord</figcaption>
+</figure>
+
+<br>
+<br>
+<br>
 
 I am following the notation used by Lee Mosher in his paper [A User's Guide to the Mapping Class Group: Once Punctured Surfaces](https://arxiv.org/abs/math/9409209). The chord diagrams are stored as a string of $(6g-3)$-many pairs. The pairs denote the involution $\text{Opp}$, the map which determines which ends are connected. The ends are enumerated couter-clockwise, with the northmost point being labelled as $1$. It is also possible to store any ideal arc system in a similar format. 
 
